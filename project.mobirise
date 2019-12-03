@@ -128,7 +128,7 @@
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "24px",
+              "font-size": "20px",
               "color": "#000000"
             }
           }
@@ -281,7 +281,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x8404.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x8406.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "kulony.html",
@@ -351,7 +351,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x8405.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x8407.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "nabory.html",
